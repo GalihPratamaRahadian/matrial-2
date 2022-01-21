@@ -1,6 +1,6 @@
 @extends('layouts.login')
 @section('title')
-    Welcome to UD CIPTA INDAH
+    Welcome to DPRKP
 @endsection
 @section('content')
 
